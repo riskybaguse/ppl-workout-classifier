@@ -1,0 +1,9 @@
+# Virtual Environment (Jangan sampai ikut ke-push!)
+env_bersih/
+.venv/
+
+# Cache Python & Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+dataset/
